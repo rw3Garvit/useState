@@ -1,25 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from "react";
+import Test from "./components/Test";
 
-function App() {
+const App = () => {
+  let [count, setcount] = useState(0);
+
+  const [color, setcolor] = useState("red");
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      {/* <h1>{count}</h1>
+      <button onClick={() => setcount(count + 1)}>+</button>
+      <button onClick={() => setcount(count - 1)}>-</button>
+
+      <div
+        style={{ backgroundColor: `${color}`, width: "250px", height: "250px" }}
+      ></div>
+      <button onClick={() => setcolor("blue")}>Change</button> */}
+      <Test />
     </div>
   );
-}
+};
 
 export default App;
