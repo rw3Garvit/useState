@@ -1,5 +1,7 @@
 import React, { useState } from "react";
 import Test from "./components/Test";
+import Input from "./components/Input";
+import Effect from "./components/Effect";
 
 const App = () => {
   let [count, setcount] = useState(0);
@@ -16,7 +18,9 @@ const App = () => {
         style={{ backgroundColor: `${color}`, width: "250px", height: "250px" }}
       ></div>
       <button onClick={() => setcolor("blue")}>Change</button> */}
-      <Test />
+      {/* <Test /> */}
+      {/* <Input /> */}
+      <Effect />
     </div>
   );
 };
