@@ -1,0 +1,101 @@
+{
+  "users": [
+    {
+      "id": "1b05",
+      "firstname": "garvit",
+      "lastname": "dhameliya",
+      "age": 22,
+      "email": "garvit@gmail.com",
+      "password": "123"
+    },
+    {
+      "firstname": "bhagat",
+      "lastname": "dobariya",
+      "age": 22,
+      "email": "bhagat@gmail.com",
+      "password": "123",
+      "id": "0810"
+    },
+    {
+      "id": "61fb",
+      "firstname": "bhagat",
+      "lastname": "dobariya",
+      "age": 22,
+      "email": "bhagat@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "230e",
+      "firstname": "asdasd",
+      "lastname": "asdas",
+      "age": "12",
+      "email": "asdasd",
+      "password": "asd"
+    },
+    {
+      "id": "38f6",
+      "firstname": "asdasd",
+      "lastname": "asdas",
+      "age": "123",
+      "email": "asdfsa",
+      "password": "asdfa"
+    },
+    {
+      "id": "d01e",
+      "firstname": "ueser",
+      "lastname": "sdfsd",
+      "age": "12",
+      "email": "SDFF23",
+      "password": "ASF"
+    },
+    {
+      "id": "76fe",
+      "firstname": "BHAGAT",
+      "lastname": "SDFGSDF",
+      "age": "123",
+      "email": "DFGS",
+      "password": "SDFGSD"
+    },
+    {
+      "id": "8739",
+      "firstname": "SASDF",
+      "lastname": "SDFSDF",
+      "age": "23",
+      "email": "SDFS",
+      "password": "SD"
+    },
+    {
+      "id": "5790",
+      "firstname": "ASDFAS",
+      "lastname": "SDFSF",
+      "age": "123",
+      "email": "SDFSD",
+      "password": "SDF"
+    },
+    {
+      "id": "4ecb",
+      "firstname": "sdcasdad",
+      "lastname": "asdasd",
+      "age": "234",
+      "email": "sxcsdf",
+      "password": "sdfg"
+    },
+    {
+      "id": "d30a",
+      "firstname": "asdasda",
+      "lastname": "asdasd",
+      "age": "232",
+      "email": "sdfsdf",
+      "password": "sdf"
+    },
+    {
+      "id": "3114",
+      "firstname": "asdasdadasdasdasdasdasd",
+      "lastname": "asdasdasdaasdas",
+      "age": "12323",
+      "email": "asdfasfasf",
+      "password": "sdfsdfsdf"
+    }
+  ],
+  "products": []
+}

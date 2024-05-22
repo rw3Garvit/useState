@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import Test from "./components/Test";
 import Input from "./components/Input";
 import Effect from "./components/Effect";
+import Api from "./components/Api";
 
 const App = () => {
   let [count, setcount] = useState(0);
@@ -20,7 +21,8 @@ const App = () => {
       <button onClick={() => setcolor("blue")}>Change</button> */}
       {/* <Test /> */}
       {/* <Input /> */}
-      <Effect />
+      {/* <Effect /> */}
+      <Api />
     </div>
   );
 };
